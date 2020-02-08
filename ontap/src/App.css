@@ -1,0 +1,46 @@
+h1{
+  text-align: center;
+}
+.btn{
+  position: relative;
+  left: 30%; 
+}
+#work{
+  transform: translateX(-240%);
+  margin-bottom: 10px;
+}
+.fix{
+  width: 100%;
+  display: inline-block;
+}
+#search{
+  width: 44%;
+  transform: translateY(-15%);
+}
+#load{
+  position: relative;
+  left: 40%;
+  transform: translateY(-115%) translateX(-20%);
+  padding:7px 10px;
+}
+.badge{
+  background-color: red;
+  margin-left: 40%;
+}
+table{
+  margin-top: 10px;
+}
+.pannel-title{
+  margin-left: 10px;
+}
+#loadone{
+  padding:7px 10px;
+  position: relative;
+  left: 50%;
+}
+#label{
+  margin-left: 40%;
+}
+.space{
+  transform: translateY(60%);
+}
